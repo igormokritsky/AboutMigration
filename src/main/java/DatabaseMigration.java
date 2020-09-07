@@ -1,7 +1,7 @@
 import org.flywaydb.core.Flyway;
 
 
-public class databaseMigration {
+public class DatabaseMigration {
 
     private static final String userName = "root";
     private static final String password = "Jummetmokai2145";
